@@ -1,5 +1,37 @@
 ## Deployed Link: https://redcarecom.netlify.app/
 
+## Tech Stack
+
+### Frontend
+
+- **React:** A popular JavaScript library for building user interfaces.
+- **React Router:** Used for client-side routing and managing navigation within the app.
+- **Redux:** A state management library for handling global application state.
+- **Tailwind CSS:** A utility-first CSS framework for styling the user interface.
+- **Heroicons:** A set of free, MIT-licensed high-quality SVG icons for you to use in your web projects.
+- **@headlessui/react:** A set of unstyled UI components for building accessible and composable user interfaces.
+
+### Backend
+
+- **Firebase:** A comprehensive platform for building web and mobile applications, including authentication, real-time database, and cloud functions.
+
+### Development Tools
+
+- **Visual Studio Code:** A popular code editor used for development.
+- **Firebase Authentication:** For user authentication and management.
+- **Firebase Realtime Database:** To store and manage car data.
+- **Firebase Hosting:** For deploying and hosting the web application.
+
+### Additional Libraries and Dependencies
+
+- **react-redux:** Official React bindings for Redux.
+- **react-router-dom:** DOM bindings for React Router.
+- **@reduxjs/toolkit:** A set of tools and recommended best practices for Redux.
+- **@tailwindcss/forms:** A plugin for Tailwind CSS to style form elements.
+- **@heroicons/react:** Provides a collection of icons that can be easily customized.
+- **@headlessui/react:** A library for building fully accessible, composable, and unstyled UI components.
+
+
 ## Features
 
 ### 1. Car Display
