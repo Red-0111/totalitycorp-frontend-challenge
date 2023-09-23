@@ -1,5 +1,44 @@
 ## Deployed Link: https://redcarecom.netlify.app/
 
+## Features
+
+### 1. Car Display
+
+- **Car Details:** View detailed information about each car, including its name, description, price, and availability.
+- **Highlight Features:** See a list of highlighted features for each car model.
+- **Images:** Visualize the cars with high-quality images.
+
+### 2. Cart Management
+
+- **Add to Cart:** Easily add cars to your shopping cart.
+- **Remove from Cart:** Remove cars from your cart when you no longer want them.
+- **Adjust Quantity:** Change the quantity of cars in your cart.
+- **Total Calculation:** Automatically calculate the subtotal, shipping estimate, tax, and order total based on the items in your cart.
+
+### 3. User Authentication
+
+- **User Registration:** Register for an account to access advanced features.
+- **User Login:** Log in to your account with secure authentication.
+- **User Logout:** Log out of your account to protect your data.
+- **Authentication State:** The app manages user authentication states, providing a personalized experience.
+
+### 4. Checkout and Orders
+
+- **Checkout Process:** Proceed to checkout and review your order details.
+- **Billing Information:** Enter your billing and payment information securely.
+- **Order Confirmation:** Receive a confirmation of your order.
+
+### 5. Responsive Design
+
+- **Mobile-Friendly:** Enjoy a seamless user experience on mobile devices and tablets.
+- **Responsive Layout:** The app adapts to different screen sizes, ensuring readability and usability.
+
+### 6. User-Friendly UI
+
+- **Intuitive Interface:** User-friendly design and navigation make it easy for users to find and purchase cars.
+- **Clear Messaging:** Receive clear messages about your cart, orders, and account status.
+
+
 ## Available Scripts
 
 In the project directory, you can run:
